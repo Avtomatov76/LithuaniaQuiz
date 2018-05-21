@@ -1,0 +1,237 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Quiz Name style specs -->
+
+    <style name="QuizName">
+        <item name="android:background">#424242</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:drawableBottom">@drawable/bokstas_two</item>
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <!-- Bokstas ImageView style specs -->
+
+    <style name="Bokstas">
+        <item name="android:src">@drawable/bokstas_two</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <!-- Introduction style specs -->
+
+    <style name="Introduction">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:paddingTop">50dp</item>
+        <item name="android:paddingLeft">50dp</item>
+        <item name="android:paddingRight">50dp</item>
+        <item name="android:paddingBottom">40dp</item>
+        <item name="android:singleLine">false</item>
+    </style>
+
+
+    <!-- Veliava ImageView style specs -->
+
+    <style name="Veliava">
+        <item name="android:src">@drawable/veliava</item>
+        <item name="android:maxWidth">62dp</item>
+        <item name="android:maxHeight">62dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+    <!-- Edit Text style specs -->
+
+    <style name="EditText">
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:inputType">text</item>
+    </style>
+
+    <!-- "False" Radio Button bottom margin specs -->
+
+    <style name="RadioButtonFalse">
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <!-- Last Checkbox bottom margin specs -->
+
+    <style name="LastCheckbox">
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <!-- Question #1 cluster style specs -->
+
+    <style name="LayoutOne">
+        <item name="android:background">@drawable/rounded_yellow_border</item>
+        <item name="android:layout_marginTop">50dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Question Title style specs -->
+
+    <style name="QuestionTitle">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <!-- Question (itself) style specs -->
+
+    <style name="Question">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <!-- Question #2 cluster style specs -->
+
+    <style name="LayoutTwo">
+        <item name="android:background">@drawable/rounded_green_border</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Question #3 cluster style specs -->
+
+    <style name="LayoutThree">
+        <item name="android:background">@drawable/rounded_red_border</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Kryziu Kalnas ImageView style specs -->
+
+    <style name="KryziuKalnas">
+        <item name="android:src">@drawable/kryziu_kalnas</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">26dp</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+
+    <!-- Question #4 cluster style specs -->
+
+    <style name="LayoutFour">
+        <item name="android:background">@drawable/rounded_yellow_border</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Question #5 cluster style specs -->
+
+    <style name="LayoutFive">
+        <item name="android:background">@drawable/rounded_green_border</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Question #6 cluster style specs -->
+
+    <style name="LayoutSix">
+        <item name="android:background">@drawable/rounded_red_border</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Trakai ImageView style specs -->
+
+    <style name="Trakai">
+        <item name="android:src">@drawable/trakai_two</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">26dp</item>
+        <item name="android:scaleType">center</item>
+    </style>
+
+    <!-- Question #7 cluster style specs -->
+
+    <style name="LayoutSeven">
+        <item name="android:background">@drawable/rounded_yellow_border</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Question #8 cluster style specs -->
+
+    <style name="LayoutEight">
+        <item name="android:background">@drawable/rounded_green_border</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Question #9 cluster style specs -->
+
+    <style name="LayoutNine">
+        <item name="android:background">@drawable/rounded_red_border</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Muziejus ImageView style specs -->
+
+    <style name="Muziejus">
+        <item name="android:src">@drawable/muziejus</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">26dp</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <!-- Question #10 cluster style specs -->
+
+    <style name="LayoutTen">
+        <item name="android:background">@drawable/rounded_yellow_border</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Submit button style specs -->
+
+    <style name="CheckYourScore">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:background">@drawable/rounded_green_border</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">30dp</item>
+    </style>
+
+    <!-- Reset button style specs -->
+
+    <style name="ResetButton">
+        <item name="android:background">@drawable/rounded_red_border</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+</resources>

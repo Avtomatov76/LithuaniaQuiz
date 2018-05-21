@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color -->
+    <color name="background">#FFFFFF</color>
+
+    <!-- Text color -->
+    <color name="textColor">#000000</color>
+
+    <!-- Rounded green border color -->
+    <color name="greenBorder">#00E676</color>
+
+    <!-- Rounded red border color -->
+    <color name="redBorder">#EF5350</color>
+
+    <!-- Rounded yellow border color -->
+    <color name="yellowBorder">#FFEB3B</color>
+</resources>

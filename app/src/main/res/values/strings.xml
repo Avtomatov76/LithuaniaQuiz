@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Lithuania Quiz</string>
+
+    <!-- Introduction for the quiz [CHAR LIMIT = NONE] -->
+    <string name="introduction">Let\'s test your knowledge about a little country called Lithuania.  Please choose/provide your best answer, or simply make an educated guess:).
+        "\n"
+        "\n"Have fun!</string>
+
+    <!-- Quiz name [CHAR LIMIT = 20] -->
+    <string name="fun_lithuania_quiz">Fun Lithuania Quiz</string>
+
+    <!-- Question 1 title [CHAR LIMIT = 20] -->
+    <string name="question_one_title">Question 1</string>
+
+    <!-- First quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_one">Lithuania is in Africa.</string>
+
+    <!-- Radio Group button designations [CHAR LIMIT = NONE] -->
+    <string name="radio_true">True</string>
+    <string name="radio_false">False</string>
+
+    <!-- Question 2 title [CHAR LIMIT = 20] -->
+    <string name="question_two_title">Question 2</string>
+
+    <!-- Second quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_two">Which of the following is Lithuania\'s capital: Tallinn, Riga, or Vilnius?  Please type your answer in the field below.
+    </string>
+
+    <!-- EditText hint text [CHAR LIMIT = 20] -->
+    <string name="hint_text">Your answer here</string>
+
+    <!-- Question 3 title [CHAR LIMIT = 20] -->
+    <string name="question_three_title">Question 3</string>
+
+    <!-- Third quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_three">Lithuanians are beer drinkers.</string>
+
+    <!-- Question 4 title [CHAR LIMIT = 20] -->
+    <string name="question_four_title">Question 4</string>
+
+    <!-- Fourth quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_four">Which of the following is a traditional Lithuanian dish (check all that apply).</string>
+
+    <!-- Checkbox number 4.1 name [CHAR LIMIT = 20] -->
+    <string name="cepelinai">Cepelinai</string>
+
+    <!-- Checkbox number 4.2 name [CHAR LIMIT = 20] -->
+    <string name="shashlyk">Shashlyk</string>
+
+    <!-- Checkbox number 4.3 name [CHAR LIMIT = 20] -->
+    <string name="pelmeni">Pelmeni</string>
+
+    <!-- Checkbox number 4.4 name [CHAR LIMIT = 20] -->
+    <string name="vedarai">Vedarai</string>
+
+    <!-- Question 5 title [CHAR LIMIT = 20] -->
+    <string name="question_five_title">Question 5</string>
+
+    <!-- Fifth quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_five">The population of Lithuania is:</string>
+
+    <!-- Checkbox number 5.1 name [CHAR LIMIT = 20] -->
+    <string name="ten">10.64 million</string>
+
+    <!-- Checkbox number 5.2 name [CHAR LIMIT = 20] -->
+    <string name="twenty_seven">27.93 million</string>
+
+    <!-- Checkbox number 5.3 name [CHAR LIMIT = 20] -->
+    <string name="one_four_three">143.3 million</string>
+
+    <!-- Checkbox number 5.4 name [CHAR LIMIT = 20] -->
+    <string name="two_eight_seven">2.87 million</string>
+
+    <!-- Question 6 title [CHAR LIMIT = 20] -->
+    <string name="question_six_title">Question 6</string>
+
+    <!-- Sixth quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_six">What is the most popular sport in Lithuania?
+        "\n"
+        "\n" Soccer
+        "\n" Ice Hockey
+        "\n" Basketball
+        "\n" Rugby</string>
+
+    <!-- Question 7 title [CHAR LIMIT = 20] -->
+    <string name="question_seven_title">Question 7</string>
+
+    <!-- Seventh quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_seven">The Lithuanian alphabet is composed of 32 letters.</string>
+
+    <!-- Question 8 title [CHAR LIMIT = 20] -->
+    <string name="question_eight_title">Question 8</string>
+
+    <!-- Eighth quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_eight">8) How many lakes does Lithuania have?</string>
+
+    <!-- Checkbox number 8.1 name [CHAR LIMIT = 20] -->
+    <string name="six_thousand">6,000</string>
+
+    <!-- Checkbox number 8.2 name [CHAR LIMIT = 20] -->
+    <string name="thousand_three_five">1,034</string>
+
+    <!-- Checkbox number 8.3 name [CHAR LIMIT = 20] -->
+    <string name="five_ninety">590</string>
+
+    <!-- Checkbox number 8.4 name [CHAR LIMIT = 20] -->
+    <string name="three_thousand">3,000</string>
+
+    <!-- Question 9 title [CHAR LIMIT = 20] -->
+    <string name="question_nine_title">Question 9</string>
+
+    <!-- Ninth quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_nine">&#8531; of Lithuania is covered by forests.</string>
+
+    <!-- Question 10 title [CHAR LIMIT = 20] -->
+    <string name="question_ten_title">Question 10</string>
+
+    <!-- Tenth quiz question [CHAR LIMIT = NONE] -->
+    <string name="question_ten">How many countries does Lithuania share its borders with?
+        "\n"
+        "\n" 1
+        "\n" 2
+        "\n" 3
+        "\n" or 4
+        "\n"
+        "\n" Type your answer below.</string>
+
+    <!-- The name of the scoring button [CHAR LIMIT = 20] -->
+    <string name="submit_answers">Check Your Score</string>
+
+    <!-- The name of the reset button [CHAR LIMIT = 20] -->
+    <string name="reset_quiz">Reset</string>
+
+</resources>
